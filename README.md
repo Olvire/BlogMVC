@@ -1,3 +1,3 @@
 # BlogMVC
 Tutoriel suivi sur www.grafikart.fr
-[id]: capture.png "catpure du blog"
+[id]: capture.jpg "catpure du blog"
