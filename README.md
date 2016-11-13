@@ -1,3 +1,2 @@
 # BlogMVC
-# BlogMVC
-# BlogMVC
+Tutoriel suivi sur www.grafikart.fr
