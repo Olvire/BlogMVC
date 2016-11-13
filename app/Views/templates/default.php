@@ -23,7 +23,7 @@
     <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
         <a class="navbar-brand" href="#">Blog</a>
         <ul class="nav navbar-nav">
-            <li class="nav-item active"><a class="nav-link" href="index.php">Index</a></li>
+            <li class="nav-item active"><a class="nav-link" href="index.php">Posts</a></li>
             <li class="nav-item"><a class="nav-link" href="index.php?p=admin.posts.index">Admin</a></li>
         </ul>
     </nav>
